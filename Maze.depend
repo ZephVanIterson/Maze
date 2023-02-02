@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1592428105 source:d:\github\maze\main.cpp
+	"Maze.h"
+
+1592449519 d:\github\maze\include\maze.h
+	<iostream>
+	<fstream>
+	<vector>
+	<math.h>
+	<apmatrix.h>
+	<windows.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1592449519 source:d:\github\maze\src\maze.cpp
+	"Maze.h"
+
